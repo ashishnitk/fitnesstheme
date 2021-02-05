@@ -1,0 +1,6 @@
+{
+    "NEW_API_URL": "http://api.ewns.in/api",
+    "AUTH_API_URL": "http://identityserver.ewns.in/connect/token",
+    "NO_PRODUCT_IMAGE":"https://s3-ap-southeast-1.amazonaws.com/content-ewns/images/productimages/5fff3d478d5dbc10304de1b7.png",
+    "NO_BLOG_IMAGE":"https://s3-ap-southeast-1.amazonaws.com/content-ewns/images/productimages/5fff3d958d5dbc10304de1bb.png"
+}
