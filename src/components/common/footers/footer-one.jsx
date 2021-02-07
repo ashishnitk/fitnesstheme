@@ -179,20 +179,12 @@ class FooterOne extends Component {
                                     </div>
                                 </div>
                             </div>
-
-
-
-
-
-
-
-
                         </div>
                     </div>
                 </section>
                 <div className="sub-footer">
-                    <div className="container">
-                        <div className="row darken-layout">
+                    <div className="container darken-layout">
+                        <div className="row">
                             <div className="col-xl-6 col-md-6 col-sm-12">
                                 <div className="footer-end">
                                     <p><i className="fa fa-copyright" aria-hidden="true"></i>{userProfile.name}</p>
